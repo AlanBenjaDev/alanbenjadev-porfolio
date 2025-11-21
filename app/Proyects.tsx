@@ -44,7 +44,7 @@ transition={{ duration: 0.7 }}
 
  <div className="max-w-6xl mx-auto px-4">
  <p className="text-lg text-center text-[#CCD6F6]/90 max-w-3xl mx-auto mb-16 leading-relaxed">
- Por esta razón, es posible que la primera carga demore entre 5 y 45 segundos mientras el servidor inicia.
+ Todos estos proyectos estan alojados con servicios gratuitos como Render,Railway y Vercel.Por esta razón, es posible que la primera carga demore entre 5 y 45 segundos mientras el servidor inicia.
  Una vez iniciado, el proyecto funciona normalmente.
  </p>
 
