@@ -26,8 +26,8 @@ export default function Projects() {  const projects = [
 
  images: imagenes,
 tech: ["Node.js", "Express", "MySQL", "Next.js", "TailwindCSS"],
- demo: "#",
- code: "#",
+ demo: "https://ecommerce-node-next.vercel.app/",
+ code: "https://github.com/AlanBenjaDev/ecommerce-node-next",
   },
   ];
 
